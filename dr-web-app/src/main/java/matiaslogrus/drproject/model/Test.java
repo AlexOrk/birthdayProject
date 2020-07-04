@@ -1,45 +1,43 @@
 package matiaslogrus.drproject.model;
 
 public class Test {
-    private String question_1 = "1. Когда я сделал тебе предложение?";
+    private String question_1 = "question";
     private String answer_1;
     private String correct_answer_1 = "2";
 
-    private String question_2 = "2. Когда ты впервые сказала, что только обо мне и думаешь, " +
-            "как я отреагировал?";
+    private String question_2 = "question";
     private String answer_2;
     private String correct_answer_2 = "2";
 
-    private String question_3 = "3. Когда я впервые позвал тебя к себе?";
+    private String question_3 = "question";
     private String answer_3;
     private String correct_answer_3 = "2";
 
-    private String question_4 = "4. Когда я впервые сообщил тебе, что ты симпатичная?";
+    private String question_4 = "question";
     private String answer_4;
     private String correct_answer_4 = "2";
 
-    private String question_5 = "5. Как называется вторая песня Калугина, что я скинул тебе, " +
-            "находясь на концерте?:)";
+    private String question_5 = "question";
     private String answer_5;
     private String correct_answer_5 = "1";
 
-    private String question_6 = "6. Когда ты в первый раз пришла в Ярумен целеноправленно ко мне?";
+    private String question_6 = "question";
     private String answer_6;
     private String correct_answer_6 = "3";
 
-    private String question_7 = "7. Которую из кошек ты мне показала первой?";
+    private String question_7 = "question";
     private String answer_7;
     private String correct_answer_7 = "3";
 
-    private String question_8 = "8. Ты держала у себя божью коровку, а каких насекомых держал я?";
+    private String question_8 = "question";
     private String answer_8;
     private String correct_answer_8 = "4";
 
-    private String question_9 = "9. Когда ты впервые осталась у меня дома, а я ушел, у меня...";
+    private String question_9 = "question";
     private String answer_9;
     private String correct_answer_9 = "1";
 
-    private String question_10 = "10. Из-за чего ты плакала первый раз после разговора со мной?:(";
+    private String question_10 = "question";
     private String answer_10;
     private String correct_answer_10 = "4";
 

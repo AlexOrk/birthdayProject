@@ -19,9 +19,8 @@
 <body>
 <div class="container">
     <H3>Специально для тебя дополнительный бонус)</H3>
-    <p>Ты мне говорила, что не ходишь по клубам! А что я тут такое нашел?)</p>
     <section class="container-fluid" style="padding-bottom: 5px">
-        <iframe class="container" width="560" height="415" src="https://www.youtube.com/embed/Fg_XZEeKpNU"
+        <iframe class="container" width="560" height="415" src="url_video"
                 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen>
         </iframe>
